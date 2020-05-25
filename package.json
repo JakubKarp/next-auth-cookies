@@ -1,0 +1,27 @@
+{
+  "name": "next-auth-cookies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakubKarp/next-auth-cookies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakubKarp/next-auth-cookies/issues"
+  },
+  "homepage": "https://github.com/JakubKarp/next-auth-cookies#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "next": "^9.4.2",
+    "nodemon": "^2.0.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
