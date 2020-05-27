@@ -1,9 +1,9 @@
-// import React from 'react';
-import LoginForm from '../components/LoginForm'
+import LoginForm from '../components/LoginForm';
+import Layout from '../components/Layout';
 
 const Login = () => (
-  <div>
+  <Layout title="Login">
     <LoginForm />
-  </div>)
+  </Layout>)
 
 export default Login

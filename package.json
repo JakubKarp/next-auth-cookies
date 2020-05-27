@@ -18,6 +18,7 @@
   "homepage": "https://github.com/JakubKarp/next-auth-cookies#readme",
   "dependencies": {
     "axios": "^0.19.2",
+    "cookie-parser": "^1.4.5",
     "express": "^4.17.1",
     "next": "^9.4.2",
     "nodemon": "^2.0.4",
